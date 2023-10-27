@@ -4,7 +4,7 @@
 .holder {
   display: flex;
   flex-wrap: wrap; /* Allow items to wrap to the next row */
-  justify-content: space-between; /* Distribute items evenly in the row */
+  justify-content: space-evenly; /* Distribute items evenly in the row */
 }
 
 /* Optional styles for the individual items */
